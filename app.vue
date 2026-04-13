@@ -52,9 +52,9 @@
         <p class="lead">Discover amazing things with Bootstrap 5</p>
         <a class="btn btn-primary btn-lg" href="#" role="button">Learn More</a>
       
-    <div class="flex justify-center items-center h-40">
+   <div class="w-full flex justify-center">
       <img src="@/assets/img/10023.jpg" class="w-24 h-24 object-contain">
-    </div>
+  </div>
       
     </div>
 </section>
