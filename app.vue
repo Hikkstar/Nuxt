@@ -54,15 +54,9 @@
     </div>
 </section>
 
-    <script setup>
-      import img from '@/assets/img/10023.jpg'
-    </script>
-
-<template>
-  <div class="text-center">
-    <img :src="img" class="w-24 h-24 object-contain">
-  </div>
-</template>
+    <div class="text-center">
+      <img src="/img/10023.jpg" class="w-24 h-24 object-contain">
+    </div>
 
 <!-- Service Section -->
 <section class="service-section">
