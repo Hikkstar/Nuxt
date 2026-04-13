@@ -51,7 +51,7 @@
         <h1 class="display-4">Welcome to Our Responsive Website</h1>
         <p class="lead">Discover amazing things with Bootstrap 5</p>
         <a class="btn btn-primary btn-lg" href="#" role="button">Learn More</a>
-        <img src="@/assets/img/10023.jpg" class="w-24 h-24 object-contain">
+        <img src="@/assets/img/10023.jpg" class="w-24 h-24 object-contain mx-auto block">
     </div>
 </section>
 
