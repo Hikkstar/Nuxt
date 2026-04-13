@@ -18,12 +18,6 @@
         }
     </style> -->
 
-    <style>
-      .text-center{
-        width: 80px;
-      }
-      </style>
-
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
@@ -61,7 +55,7 @@
 </section>
 
     <div class="text-center">
-      <img src="@/assets/img/10023.jpg" class="width:100px; height:auto;">
+      <img src="@/assets/img/10023.jpg" style="width:80px; height:auto;">
     </div>
 
 <!-- Service Section -->
