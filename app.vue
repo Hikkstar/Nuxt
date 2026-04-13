@@ -55,7 +55,7 @@
 </section>
 
     <div class="text-center">
-      <img :src="require('@/assets/img/10023.jpg')" class="w-24 h-24 object-contain">
+        <img :src="require('@/assets/img/10023.jpg')" class="w-24 h-24 object-contain">
     </div>
 
 <!-- Service Section -->
