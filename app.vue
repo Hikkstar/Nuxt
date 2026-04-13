@@ -17,6 +17,11 @@
             padding: 80px 20px;
         }
     </style> -->
+    <style>
+      .red{
+        width: 80px;
+      }
+      </style>
 
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
