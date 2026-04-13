@@ -55,7 +55,7 @@
 </section>
 
     <div class="text-center">
-      <img src="@/assets/img/10023.jpg" class="w-24 mx-auto">
+      <img src="@/assets/img/10023.jpg" class="w-16 mx-auto">
     </div>
 
 <!-- Service Section -->
