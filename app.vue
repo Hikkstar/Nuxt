@@ -17,11 +17,6 @@
             padding: 80px 20px;
         }
     </style> -->
-    <style>
-      .text-center > img {
-          width: 80px !important;
-        }
-      </style>
 
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
