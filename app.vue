@@ -54,8 +54,8 @@
     </div>
 </section>
 
-    <div class="w-full flex justify-center">
-      <img src="@/assets/img/10023.jpg" class="w-24 h-24 object-contain">
+    <div class="text-center">
+        <img src="@/assets/img/10023.jpg" class="img-fluid" style="width:100px;">
   </div>
 
 <!-- Service Section -->
