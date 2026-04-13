@@ -55,7 +55,7 @@
 </section>
 
     <div class="flex justify-center w-screen">
-        <img src="@/assets/img/10023.jpg" class="w-48 h-48 object-contain">
+        <img src="@/assets/img/10023.jpg" class="w-32 h-32 object-contain">
   </div>
 
 <!-- Service Section -->
