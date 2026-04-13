@@ -55,7 +55,7 @@
 </section>
 
     <div class="text-center">
-      <img src="@/assets/img/10023.jpg" class="w-16 h-16 object-contain">
+      <img src="@/assets/img/10023.jpg" class="w-12 h-12 object-contain">
     </div>
 
 <!-- Service Section -->
