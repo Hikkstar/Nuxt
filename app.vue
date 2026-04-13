@@ -18,6 +18,12 @@
         }
     </style> -->
 
+    <style>
+      .text-center{
+        width: 80px;
+      }
+      </style>
+
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
