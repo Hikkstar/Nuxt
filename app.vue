@@ -18,9 +18,9 @@
         }
     </style> -->
     <style>
-      .text-center > img{
-                   width: 80px;
-      }
+      .text-center > img {
+          width: 80px !important;
+        }
       </style>
 
 <!-- Navigation Bar -->
