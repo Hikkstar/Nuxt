@@ -18,8 +18,8 @@
         }
     </style> -->
     <style>
-      .red{
-        width: 80px !important;
+    .red {
+  width: 80px;
       }
       </style>
 
@@ -62,7 +62,7 @@
 </section>
 
     <div class="text-center">
-      <img src="@/assets/img/10023.jpg" class=" red w-16 mx-auto">
+      <img src="@/assets/img/10023.jpg" class="red mx-auto">
     </div>
 
 <!-- Service Section -->
