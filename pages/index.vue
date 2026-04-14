@@ -19,7 +19,7 @@
     </style> -->
     <style>
     .red {
-  width: 80px;
+        width: 80px !important;
       }
       </style>
 
