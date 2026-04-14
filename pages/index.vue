@@ -62,7 +62,7 @@
 </section>
 
     <div class="text-center">
-      <img src="@/assets/img/10023.jpg" class="red mx-auto">
+      <img src="@/assets/img/10024.jpg" class="red mx-auto">
     </div>
 
 <!-- Service Section -->
